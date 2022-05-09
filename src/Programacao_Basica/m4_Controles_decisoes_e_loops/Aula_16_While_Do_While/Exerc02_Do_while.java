@@ -1,6 +1,6 @@
-package Programacao_Basica.m4_Controles_decisoes_e_loops.Aula_16_While_Do_While;
+package programacao_basica.m4_controles_decisoes_e_loops.aula_16_while_do_while;
 
-public class Exerc02_Do_while {
+public class Exerc02_do_while {
     public static void main(String[] args) {
 
 

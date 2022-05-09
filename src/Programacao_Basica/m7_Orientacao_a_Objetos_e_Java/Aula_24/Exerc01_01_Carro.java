@@ -1,6 +1,6 @@
-package Programacao_Basica.m7_Orientacao_a_Objetos_e_Java.Aula_24;
+package programacao_basica.m7_orientacao_a_objetos_e_java.aula_24;
 
-public class Exerc01_01_Carro {
+public class Exerc01_01_carro {
     // Classe carro com 5 atributos
     String marca;
     String modelo;

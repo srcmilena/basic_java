@@ -2,7 +2,7 @@
 * Cria uma classe para representar uma conta corrente que possui um número, um saldo, um status que informa se ela é especial ou não, um limite. Desenvolva métodos para realizar saque (verificando se o cliente pode realizar saques), depositar dinheiro, consultar saldo e verificar se o cliente está usando cheque esceial ou não. Desenvolva um programa para testar essa classe.
 */
 
-package Programacao_Basica.m7_Orientacao_a_Objetos_e_Java.Labs_Aulas_25_a_27.Exerc02;
+package programacao_basica.m7_orientacao_a_objetos_e_java.labs_aulas_25_a_27.exerc02;
 
 public class ContaCorrente {
 

@@ -1,8 +1,8 @@
-package Programacao_Basica.m3_Programacao_basica.Aula_12;
+package programacao_basica.m3_programacao_basica.aula_12;
 
 import java.util.Scanner;
 
-public class Aula_12_Leitura_Dados_Teclado {
+public class Aula12_leitura_dados_teclado {
 
     public static void main(String[] args) {
 

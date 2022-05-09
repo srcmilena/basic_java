@@ -1,6 +1,6 @@
-package Programacao_Basica.m3_Programacao_basica.Aula_11;
+package programacao_basica.m3_programacao_basica.aula_11;
 
-public class Aula_11_Variaveis_Inteiras {
+public class Aula11_variaveis_inteiras {
 
     public static void main(String[] args) {
         byte idade01 = 20;

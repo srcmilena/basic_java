@@ -1,8 +1,8 @@
-package Programacao_Basica.m4_Controles_decisoes_e_loops.Aula_15_Switch_Case;
+package programacao_basica.m4_controles_decisoes_e_loops.aula_15_switch_case;
 
 import java.util.Scanner;
 
-public class Exerc01_Dias_da_semana {
+public class Exerc01_dias_da_semana {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Digite um número (1-7): ");

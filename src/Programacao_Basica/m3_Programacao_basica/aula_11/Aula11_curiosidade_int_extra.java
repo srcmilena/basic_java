@@ -1,6 +1,6 @@
-package Programacao_Basica.m3_Programacao_basica.Aula_11;
+package programacao_basica.m3_programacao_basica.aula_11;
 
-public class Aula_11_Curiosidade_Int_extra {
+public class Aula11_curiosidade_int_extra {
 
     public static void main(String[] args) {
         int var1 = 2147483647; // Limite máximo em kbts. Se fazer a soma, o retorno será negativo no output, mas, não

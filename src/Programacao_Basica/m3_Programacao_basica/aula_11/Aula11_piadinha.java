@@ -1,6 +1,6 @@
-package Programacao_Basica.m3_Programacao_basica.Aula_11;
+package programacao_basica.m3_programacao_basica.aula_11;
 
-public class Aula_11_Piadinha {
+public class Aula11_piadinha {
     public static void main(String[] args) {
         int Oct31 = 031;
         int Dec25 = 25;

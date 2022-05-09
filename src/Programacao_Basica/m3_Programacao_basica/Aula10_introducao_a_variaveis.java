@@ -1,6 +1,6 @@
-package Programacao_Basica.m3_Programacao_basica;
+package programacao_basica.m3_programacao_basica;
 
-public class Aula_10_Introducao_a_variaveis {
+public class Aula10_introducao_a_variaveis {
 
     public static void main(String[] args) {
 

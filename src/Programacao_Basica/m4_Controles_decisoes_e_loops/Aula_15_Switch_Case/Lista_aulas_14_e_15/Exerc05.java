@@ -4,7 +4,7 @@
 * - A mensagem "Reprovado", se a média for menor do que sete;
 * - A mensagem "Aprovado com distinção", se a média for igual a dez.
 */
-package Programacao_Basica.m4_Controles_decisoes_e_loops.Aula_15_Switch_Case.Lista_aulas_14_e_15;
+package programacao_basica.m4_controles_decisoes_e_loops.aula_15_switch_case.lista_aulas_14_e_15;
 
 import java.util.Scanner;
 

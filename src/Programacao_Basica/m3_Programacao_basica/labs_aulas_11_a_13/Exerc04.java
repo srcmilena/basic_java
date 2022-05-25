@@ -23,7 +23,7 @@ public class Exerc04 {
         System.out.print("Digite a quarta nota: ");
         int nota4 = scan.nextInt();
 
-        float media = (nota1 + nota2 + nota3 + nota4) / 4;
+        double media = (nota1 + nota2 + nota3 + nota4) / 4;
 
         System.out.print("A média é: " + media); //Por que se digitar 6, 7, 5, 4 dá 5.0 e não 5.5?
     }

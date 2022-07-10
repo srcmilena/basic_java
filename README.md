@@ -1,32 +1,32 @@
-# Curso de Java básico da Loiane Groner
+# Curso de Java básico
 
 ### **Nível**: iniciante ao intermediário
 
-No curso de Java básico (Java SE) da Loiane Groner são abordados os seguintes tópicos:
+No curso de Java básico (Java SE), da Loiane Groner, são abordados os seguintes tópicos:
 
 
 
--   Módulo 1
+## Módulo 1
 
-    -   Lógica de programação básica;
+-   Lógica de programação básica;
 
-    -   Orientação a objetos;
+-   Orientação a objetos;
 
-    -   Tratamento de erros.
+-   Tratamento de erros.
 
-    
 
--   Outros módulos desse curso
 
-    -   Classes utilitárias que todo desenvolvedor deve saber usar;
+## Outros módulos desse curso
 
-    -   Leitura e criação de arquivos;
+-   Classes utilitárias que todo desenvolvedor deve saber usar;
 
-    -   Collections (estruturas de dados do Java);
+-   Leitura e criação de arquivos;
 
-    -   Interface gráfica com Swing e JavaFX;
+-   Collections (estruturas de dados do Java);
 
-    -   Acesso ao banco de dados.
+-   Interface gráfica com Swing e JavaFX;
+
+-   Acesso ao banco de dados.
 
 
 

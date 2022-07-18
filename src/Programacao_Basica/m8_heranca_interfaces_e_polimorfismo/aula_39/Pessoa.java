@@ -1,15 +1,26 @@
-package programacao_basica.m7_orientacao_a_objetos_e_java.aula_37;
+package programacao_basica.m8_heranca_interfaces_e_polimorfismo.aula_39;
 
-// pessoa é: superclasse, classe mãe/pai
 public class Pessoa {
 
-    // as classes que herdarem esses atributos, não terão acesso pois eles são private e sim apenas aos getters e setters
     private String nome;
     private String endereco;
     private String telefone;
     private String cpf;
-
     private String telefoneCelular;
+
+    protected String nomeVisibilidade;
+    // modificador padrão = vísivel dentro do pacote
+    // public = consegue ver mesmo se estiver em outro pacote
+    // protected = funciona como o default, a diferença é que não importa onde as subclasses estejam, elas possuem acesso aos atributos e métodos
+
+    public Pessoa() {}
+
+    public Pessoa(String nome, String endereco, String telefone) {
+        super();
+        this.nome = nome;
+        this.endereco = endereco;
+        this.telefone = telefone;
+    }
 
     public String getTelefoneCelular() {
         return telefoneCelular;
@@ -50,4 +61,13 @@ public class Pessoa {
     public void setCpf(String cpf) {
         this.cpf = cpf;
     }
+
+    public String getNomeVisibilidade() {
+        return nomeVisibilidade;
+    }
+
+    public void setNomeVisibilidade(String nomeVisibilidade) {
+        this.nomeVisibilidade = nomeVisibilidade;
+    }
 }
+

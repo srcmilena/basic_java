@@ -1,6 +1,5 @@
-package programacao_basica.m7_orientacao_a_objetos_e_java.aula_37;
+package programacao_basica.m8_heranca_interfaces_e_polimorfismo.aula_40;
 
-// professor é: classe filho, classe herdeira
 public class Professor extends Pessoa {
 
     private double salario;
@@ -24,5 +23,13 @@ public class Professor extends Pessoa {
 
     public double calcularSalarioLiquido() {
         return 0;
+    }
+
+    public String obterEtiquetaEndereco() {
+        //return endereco;
+        String s = "Endereço do professor: ";
+        s += this.getEndereco(); // s += concatena
+
+        return s;
     }
 }

@@ -1,4 +1,4 @@
-package programacao_basica.m7_orientacao_a_objetos_e_java.aula_37;
+package programacao_basica.m8_heranca_interfaces_e_polimorfismo.aula_37;
 
 public class Teste {
 

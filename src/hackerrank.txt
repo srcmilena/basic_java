@@ -1,0 +1,27 @@
+public class Solution {
+    public static void main(String args[]) throws Exception {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+        int digitosMaximos = 9999;
+        
+        // for de 1000 até 9999, onde cada número é transformado em String a cada iteração
+        for (int digitosMinimos = 1000; digitosMinimos <= digitosMaximos; digitosMinimos++) {
+            
+            String valor = String.valueOf(digitosMinimos);
+            
+            char[] digitos = valor.toCharArray();
+            
+            int numero0 = Integer.parseInt(String.valueOf(digitos[0]));
+            int numero1 = Integer.parseInt(String.valueOf(digitos[1]));
+            int numero2 = Integer.parseInt(String.valueOf(digitos[2]));
+            int numero3 = Integer.parseInt(String.valueOf(digitos[3]));
+            
+            int somando = numero0 + numero1 + numero2 + numero3;
+            
+            if (somando == 21) {
+                System.out.println(digitosMinimos);
+            }
+        }
+        
+        
+    }
+}

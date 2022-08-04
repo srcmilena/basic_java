@@ -11,7 +11,7 @@ In Loiane Groner's Basic Java (Java SE) course, the following topics are covered
 -   Arrays and matrices;
 -   For each and debugging of Java applications;
 -   Object-Oriented Programming in Java;
--   OOP: Inheritance, Interfaces and Polymorphism
+-   OOP: Inheritance, Interfaces and Polymorphism;
 -   Exception handling.
 
 
